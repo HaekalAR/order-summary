@@ -17,7 +17,11 @@ const Card = () => {
           </div>
           <div className="flex items-center justify-between bg-[--very-pale-blue] rounded-xl p-4">
             <div className="flex gap-4">
-              <img src="/icon-music.svg" className="w-10 h-10" />
+              <img
+                src="/icon-music.svg"
+                alt="Music-Icon"
+                className="w-10 h-10"
+              />
               <div>
                 <h3 className="font-[700] md:text-base text-sm text-[--dark-blue]">
                   Annual Plan
