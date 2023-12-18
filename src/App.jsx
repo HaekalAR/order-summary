@@ -5,7 +5,7 @@ const App = () => {
     <>
       <Card />
     </>
-  )
-}
+  );
+};
 
 export default App;
